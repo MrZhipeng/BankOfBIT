@@ -1,0 +1,12 @@
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\bin\Debug\Utility.dll
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\bin\Debug\Utility.pdb
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\obj\Debug\Utility.dll
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\obj\Debug\Utility.pdb
+C:\Users\Harry\Desktop\20220424try\BankOfBIT_ZD\Utility\bin\Debug\Utility.dll
+C:\Users\Harry\Desktop\20220424try\BankOfBIT_ZD\Utility\bin\Debug\Utility.pdb
+C:\Users\Harry\Desktop\20220424try\BankOfBIT_ZD\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\Harry\Desktop\20220424try\BankOfBIT_ZD\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\20220424try\BankOfBIT_ZD\Utility\obj\Debug\Utility.dll
+C:\Users\Harry\Desktop\20220424try\BankOfBIT_ZD\Utility\obj\Debug\Utility.pdb
